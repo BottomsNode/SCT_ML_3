@@ -19,24 +19,25 @@ The dataset used for this project is the [Dogs vs. Cats dataset](https://www.kag
 
 ## Requirements
 
-- Python 3.x
-- NumPy
-- pandas
-- scikit-learn
-- OpenCV
-- Keras
-- TensorFlow
+- `Python 3.x/`
+- `NumPy/`
+- `pandas/`
+- `scikit-learn/`
+- `OpenCV/`
+- `Keras/`
+- `TensorFlow/`
 
 Install the required libraries using:
 
 ```bash
 pip install numpy pandas scikit-learn opencv-python keras tensorflow
 ```
+
 ## Usage
-  -Training and Predicting
-  -Extract Features: Extract features from the images using the VGG16 model.
-  -Train SVM Classifier: Train the SVM classifier using the extracted features.
-  -Predict: Predict the labels for the test images.
+  - `Training and Predicting/`
+  - `Extract Features: Extract features from the images using the VGG16 model./`
+  - `Train SVM Classifier: Train the SVM classifier using the extracted features./`
+  - `Predict: Predict the labels for the test images./`
 
 ## Predicting a Single Image
   To classify a single image, use the predict_image function included in the code.
@@ -49,4 +50,4 @@ pip install numpy pandas scikit-learn opencv-python keras tensorflow
   This project is licensed under the MIT License.
   
 ### How to Use
-  - Save this content in a file named `README.md` in the root directory of your project.
+  - `Save this content in a file named `README.md` in the root directory of your project./`
