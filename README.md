@@ -50,4 +50,4 @@ pip install numpy pandas scikit-learn opencv-python keras tensorflow
   This project is licensed under the MIT License.
   
 ### How to Use
-  - `Save this content in a file named `README.md` in the root directory of your project./`
+  - Save this content in a file named `README.md` in the root directory of your project.
