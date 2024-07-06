@@ -1,6 +1,5 @@
-# SCT_ML_3
-
 # Cats vs Dogs Image Classification
+![Cats vs Dogs Image Classification](https://github.com/BottomsNode/SCT_ML_3/blob/main/Task%20ML%203.png)
 
 This repository contains code for classifying images of cats and dogs using a Support Vector Machine (SVM) classifier. The features for the classification are extracted using a pre-trained VGG16 model.
 
