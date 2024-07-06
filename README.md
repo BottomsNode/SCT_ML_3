@@ -41,3 +41,12 @@ pip install numpy pandas scikit-learn opencv-python keras tensorflow
 
 ## Predicting a Single Image
   To classify a single image, use the predict_image function included in the code. This function takes an image path as input and returns whether the image is of a cat or a dog.
+
+## Acknowledgements
+  This project uses the Dogs vs. Cats dataset from Kaggle. Special thanks to the Kaggle community for providing such a valuable dataset.
+
+## License  
+  This project is licensed under the MIT License.
+  
+### How to Use
+  - Save this content in a file named `README.md` in the root directory of your project.
