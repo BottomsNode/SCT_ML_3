@@ -19,13 +19,13 @@ The dataset used for this project is the [Dogs vs. Cats dataset](https://www.kag
 
 ## Requirements
 
-- `Python 3.x/`
-- `NumPy/`
-- `pandas/`
-- `scikit-learn/`
-- `OpenCV/`
-- `Keras/`
-- `TensorFlow/`
+- `Python 3.x`
+- `NumPy`
+- `pandas`
+- `scikit-learn`
+- `OpenCV`
+- `Keras`
+- `TensorFlow`
 
 Install the required libraries using:
 
