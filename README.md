@@ -33,3 +33,11 @@ Install the required libraries using:
 ```bash
 pip install numpy pandas scikit-learn opencv-python keras tensorflow
 ```
+## Usage
+  -Training and Predicting
+  -Extract Features: Extract features from the images using the VGG16 model.
+  -Train SVM Classifier: Train the SVM classifier using the extracted features.
+  -Predict: Predict the labels for the test images.
+
+## Predicting a Single Image
+  To classify a single image, use the predict_image function included in the code. This function takes an image path as input and returns whether the image is of a cat or a dog.
